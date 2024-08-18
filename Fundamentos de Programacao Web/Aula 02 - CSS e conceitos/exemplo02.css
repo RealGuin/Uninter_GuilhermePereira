@@ -1,0 +1,18 @@
+    *{
+        text-align: center;
+        color: blue;
+        /*Universal*/
+    }
+    p{
+        text-align: justify;
+        color: red;
+        /*Elemento*/
+    }
+    #p{
+        color: blueviolet;
+        /*Id*/
+    }
+    .p{
+        color: green;
+        /*Class*/
+    }
